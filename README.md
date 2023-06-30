@@ -32,20 +32,20 @@ Run the following command:
 The web application will start, and you will be provided with a URL to access the application locally. Open the URL in your web browser.
 
 **How to Use:**
-1.The web application will open with a title "Multiple Disease Prediction System using ML."
-2.You can choose from three options: "Diabetes," "Heart," or "Breast."
-3.Select the disease you want to predict by clicking on the corresponding option.
-4.After selecting the disease, input the required data in the provided fields. The input fields will vary depending on the selected disease.
-5.Click on the corresponding prediction button ("Diabetes Test Result," "Heart Disease Test Result," or "Breast Cancer Prediction Test Result").
-6.The prediction result will be displayed below the prediction button.
+1. The web application will open with a title "Multiple Disease Prediction System using ML."
+2. You can choose from three options: "Diabetes," "Heart," or "Breast."
+3. Select the disease you want to predict by clicking on the corresponding option.
+4. After selecting the disease, input the required data in the provided fields. The input fields will vary depending on the selected disease.
+5. Click on the corresponding prediction button ("Diabetes Test Result," "Heart Disease Test Result," or "Breast Cancer Prediction Test Result").
+6. The prediction result will be displayed below the prediction button.
 
 **Roadmap:**
 There are several possible enhancements that can be made to this project, including:
-1.Adding more disease prediction options and corresponding machine learning models.
-2.Improving the user interface and design of the web application.
-3Implementing data validation and error handling for user inputs.
-4.Deploying the application to a web server for online access.
-5.Adding additional features such as data visualization or personalized recommendations based on predictions.
+1. Adding more disease prediction options and corresponding machine learning models.
+2. Improving the user interface and design of the web application.
+3. Implementing data validation and error handling for user inputs.
+4. Deploying the application to a web server for online access.
+5. Adding additional features such as data visualization or personalized recommendations based on predictions.
 
 **Contribution:**
 Contributions to this project are welcome. If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request on the project's GitHub repository.
