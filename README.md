@@ -17,10 +17,10 @@ breast_model.sav: A trained machine learning model for breast cancer prediction 
 
 **Setup:**
 1. Install the required dependencies by running the following command in your terminal or command prompt:
- pip install streamlit
- pip install scikit-learn
- pip install numpy
- pip install pandas
+ -> pip install streamlit
+ -> pip install scikit-learn
+ -> pip install numpy
+ -> pip install pandas
 2. Place the web_app.py file and the three pickle files (diabetes_model.sav, heart_model_rf.sav, and breast_model.sav) in the same   
    directory.
    
