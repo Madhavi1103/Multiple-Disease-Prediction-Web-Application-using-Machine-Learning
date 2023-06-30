@@ -8,12 +8,12 @@ heart_model_rf.sav: A trained machine learning model for heart disease predictio
 breast_model.sav: A trained machine learning model for breast cancer prediction (pickle file).
 
 **Requirements:**
-   Python 3.x
-   Jupyter Notebook
-   Streamlit
-   scikit-learn
-   NumPy
-   Pandas
+   Python 3.x ,
+   Jupyter Notebook ,
+   Streamlit ,
+   scikit-learn ,
+   NumPy ,
+   Pandas 
 
 **Setup:**
 1. Install the required dependencies by running the following command in your terminal or command prompt:
